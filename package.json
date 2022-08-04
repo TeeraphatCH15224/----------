@@ -1,5 +1,5 @@
 {
-  "name": "genshin",
+  "name": "bot",
   "version": "1.0.0",
   "description": "discord bot for genshin",
   "main": "index.js",
